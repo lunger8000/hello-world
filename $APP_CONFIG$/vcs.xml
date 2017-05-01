@@ -1,0 +1,24 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/PaoloTessari/projects-meteor-packages-dbaccess.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/PaoloTessari/projects-meteor-test-dbaccess.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/lunger8000/hello-world.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="$USER_HOME$/workspace" />
+  </component>
+  <component name="HgGlobalSettings">
+    <option name="myHgExecutable" value="hg" />
+  </component>
+</application>
