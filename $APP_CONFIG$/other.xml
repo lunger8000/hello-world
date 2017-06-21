@@ -80,9 +80,10 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/Documents/projects/meteor/samples/simple-todos" />
+        <option value="/media/paolo/meteor-samples/todos-master" />
         <option value="/media/paolo/meteor-samples/simple-todos" />
         <option value="/media/paolo/4fbaae7d-36f7-48a7-8ae9-8335e1456fb4/meteor-samples/simple-todos" />
-        <option value="$USER_HOME$/Documents/projects/meteor/samples/simple-todos" />
         <option value="/media/paolo/sda3/meteor-samples/simple-todos" />
         <option value="$USER_HOME$/Documents/projects/meteor/ToDo" />
         <option value="$USER_HOME$/Documents/projects/meteor/samples/chat" />
@@ -104,15 +105,9 @@
         <option value="$USER_HOME$/workspace/projects/meteor/packages/klab-dbaccess" />
         <option value="$USER_HOME$/workspace/projects/meteor/packages/klab-impexp" />
         <option value="$USER_HOME$/workspace/projects/meteor/syncdb/packages/klab-impexp" />
-        <option value="$USER_HOME$/workspace/projects/meteor/packages/klab-oplog" />
       </list>
     </option>
-    <option name="openPaths">
-      <list>
-        <option value="/media/paolo/meteor-samples/simple-todos" />
-      </list>
-    </option>
-    <option name="lastPath" value="/media/paolo/meteor-samples/simple-todos" />
+    <option name="lastPath" value="$USER_HOME$/Documents/projects/meteor/samples/simple-todos" />
   </component>
   <component name="RecentTaskRepositories">
     <Gitlab shared="true" url="git@5.249.150.207:8081/kubix/integrator.git">
