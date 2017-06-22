@@ -107,6 +107,11 @@
         <option value="$USER_HOME$/workspace/projects/meteor" />
       </list>
     </option>
+    <option name="openPaths">
+      <list>
+        <option value="/media/paolo/meteor-samples/localmarket" />
+      </list>
+    </option>
     <option name="lastPath" value="/media/paolo/meteor-samples/localmarket" />
   </component>
   <component name="RecentTaskRepositories">
