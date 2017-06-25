@@ -58,15 +58,15 @@
     <option name="SHOW_PATH" value="true" />
   </component>
   <component name="ExternalResourceManagerImpl">
-    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
     <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
-    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
     <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
     <ignored-resource url="http://exslt.org/math" />
     <ignored-resource url="http://exslt.org/dynamic" />
     <ignored-resource url="http://exslt.org/common" />
-    <ignored-resource url="http://exslt.org/strings" />
     <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://exslt.org/strings" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
   <component name="ImportConfiguration">
@@ -105,6 +105,11 @@
         <option value="$USER_HOME$/workspace/projects/meteor/syncdb" />
         <option value="$USER_HOME$/Documents/projects/node/kexcel" />
         <option value="$USER_HOME$/Documents/projects/node/_kexcel" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="/media/paolo/meteor-samples/todos" />
       </list>
     </option>
     <option name="lastPath" value="/media/paolo/meteor-samples/todos" />
