@@ -80,8 +80,8 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="/media/paolo/meteor-samples/Microscope-master" />
         <option value="/media/paolo/meteor-samples/Cards" />
+        <option value="/media/paolo/meteor-samples/Microscope-master" />
         <option value="/media/paolo/meteor-samples/todos" />
         <option value="/media/paolo/meteor-samples/localmarket" />
         <option value="$USER_HOME$/Documents/projects/meteor/sync" />
@@ -112,7 +112,7 @@
         <option value="/media/paolo/meteor-samples/Microscope-master" />
       </list>
     </option>
-    <option name="lastPath" value="/media/paolo/meteor-samples/Microscope-master" />
+    <option name="lastPath" value="/media/paolo/meteor-samples/Cards" />
   </component>
   <component name="RecentTaskRepositories">
     <Gitlab shared="true" url="git@5.249.150.207:8081/kubix/integrator.git">
