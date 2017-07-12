@@ -58,15 +58,15 @@
     <option name="SHOW_PATH" value="true" />
   </component>
   <component name="ExternalResourceManagerImpl">
-    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
     <ignored-resource url="urn:idea:xslt-plugin#extensions" />
-    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
     <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
     <ignored-resource url="http://exslt.org/math" />
     <ignored-resource url="http://exslt.org/dynamic" />
     <ignored-resource url="http://exslt.org/common" />
-    <ignored-resource url="http://exslt.org/sets" />
     <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="http://exslt.org/sets" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
   <component name="ImportConfiguration">
@@ -81,10 +81,10 @@
     <option name="recentPaths">
       <list>
         <option value="/media/paolo/meteor-samples/Microscope-master" />
+        <option value="$USER_HOME$/Documents/projects/meteor/sync" />
         <option value="/media/paolo/meteor-samples/Cards" />
         <option value="/media/paolo/meteor-samples/todos" />
         <option value="/media/paolo/meteor-samples/localmarket" />
-        <option value="$USER_HOME$/Documents/projects/meteor/sync" />
         <option value="/media/paolo/meteor-samples/CTRP2" />
         <option value="/media/paolo/meteor-samples/CTRP" />
         <option value="/media/paolo/meteor-samples/HttpTest" />
