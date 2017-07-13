@@ -58,15 +58,15 @@
     <option name="SHOW_PATH" value="true" />
   </component>
   <component name="ExternalResourceManagerImpl">
-    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
     <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
-    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
     <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
     <ignored-resource url="http://exslt.org/math" />
     <ignored-resource url="http://exslt.org/dynamic" />
     <ignored-resource url="http://exslt.org/common" />
-    <ignored-resource url="http://exslt.org/strings" />
     <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://exslt.org/strings" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
   <component name="ImportConfiguration">
@@ -80,6 +80,7 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/Documents/projects/meteor/samples/todos" />
         <option value="/media/paolo/meteor-samples/simple-todos" />
         <option value="/media/paolo/meteor-samples/localmarket" />
         <option value="/media/paolo/meteor-samples/Microscope-master" />
@@ -104,10 +105,9 @@
         <option value="$USER_HOME$/Documents/projects/node/samples/udp" />
         <option value="$USER_HOME$/Documents/projects/meteor/DocCast" />
         <option value="$USER_HOME$/Documents/projects/meteor/HelloWorld" />
-        <option value="$USER_HOME$/workspace/hello-world" />
       </list>
     </option>
-    <option name="lastPath" value="/media/paolo/meteor-samples/simple-todos" />
+    <option name="lastPath" value="$USER_HOME$/Documents/projects/meteor/samples/todos" />
   </component>
   <component name="RecentTaskRepositories">
     <Gitlab shared="true" url="git@5.249.150.207:8081/kubix/integrator.git">
