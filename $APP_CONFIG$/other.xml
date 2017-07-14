@@ -80,10 +80,11 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="/media/paolo/meteor-samples/link-master" />
         <option value="$USER_HOME$/Documents/projects/meteor/samples/todos" />
-        <option value="/media/paolo/meteor-samples/simple-todos" />
         <option value="/media/paolo/meteor-samples/localmarket" />
+        <option value="/media/paolo/meteor-samples/link-master/client" />
+        <option value="/media/paolo/meteor-samples/link-master" />
+        <option value="/media/paolo/meteor-samples/simple-todos" />
         <option value="/media/paolo/meteor-samples/Microscope-master" />
         <option value="$USER_HOME$/Documents/projects/meteor/sync" />
         <option value="/media/paolo/meteor-samples/Cards" />
@@ -104,16 +105,15 @@
         <option value="$USER_HOME$/Documents/projects/node/samples/udpClient" />
         <option value="$USER_HOME$/Documents/projects/meteor/udpClient" />
         <option value="$USER_HOME$/Documents/projects/node/samples/udp" />
-        <option value="$USER_HOME$/Documents/projects/meteor/DocCast" />
       </list>
     </option>
     <option name="openPaths">
       <list>
+        <option value="/media/paolo/meteor-samples/link-master/client" />
         <option value="$USER_HOME$/Documents/projects/meteor/samples/todos" />
-        <option value="/media/paolo/meteor-samples/link-master" />
       </list>
     </option>
-    <option name="lastPath" value="/media/paolo/meteor-samples/link-master" />
+    <option name="lastPath" value="$USER_HOME$/Documents/projects/meteor/samples/todos" />
   </component>
   <component name="RecentTaskRepositories">
     <Gitlab shared="true" url="git@5.249.150.207:8081/kubix/integrator.git">
